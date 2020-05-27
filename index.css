@@ -1,0 +1,56 @@
+.header {
+    background-color: #1880C8;
+    height: 40px;
+
+    display:flex;
+    flex-direction: row;
+    justify-content:space-around;
+}
+.header nav .top-menu{
+      display: flex;
+    list-style-type: none;
+    justify-content: space-around;
+    margin-top: 10px;
+ }
+
+.catalog {
+    display:flex;
+}
+.sale {
+    display:flex;
+    text-align: center;
+}
+.brands {
+    display:flex;
+    text-align: center;
+}
+.footer {
+    background-color: cornflowerblue;
+    height: 80px;
+}
+.copyright {
+    padding-top: 30px;
+    padding-left: 70px;
+    color: white;
+}
+.ss{
+     background-color: #1880C8;
+    height: 40px;
+    align-items: center;
+    justify-content: center;
+    display:flex;
+}
+.brd{
+         background-color: #1880C8;
+    height: 40px;
+    align-items: center;
+    justify-content: center;
+    display:flex;
+}
+.fed{
+      background-color: #1880C8;
+    height: 40px;
+    align-items: center;
+    justify-content: center;
+    display:flex;
+}
